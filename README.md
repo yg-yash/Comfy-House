@@ -3,7 +3,7 @@
 **Comfy House** is a simple yet effective furniture-selling app created using Vanilla JavaScript. This app allows users to browse various furniture items, add them to their cart, and complete the purchase process seamlessly. 
 
 ## Demo
-![Comfy House Demo](images/dashboard-main.png)  
+![Comfy House Demo](images/main.png)  
 *(Screenshot of the Comfy House app UI)*
 
 ## Features
